@@ -1,2 +1,2 @@
 # Linguagens e Codigos Senac 2P
- Aulas Senac
+ Primeira aula de Linguagens e Códigos "Estruturando um Currículo".
